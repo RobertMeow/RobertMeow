@@ -7,7 +7,7 @@
 
 ## ⚙ Мои проекты
 ### [Hella Bot](https://hella.team)
-Лучший пользовательский бот ВКонтакте.
+Лучший пользовательский бот ВКанаве LTD.
 
 ## 📊 Статистика
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertMeow&show_icons=true&theme=synthwave&hide=contribs,prs,issues)]()
