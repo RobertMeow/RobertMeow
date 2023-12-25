@@ -1,5 +1,5 @@
-# <img height="40" src="https://raw.githubusercontent.com/RobertMeow/RobertMeow/master/files/meow.gif"/> RobertMeow
-Приветствую, зовут Роберт, 18 лет. Разрабатываю различные скрипты, программы на `Python` и `C++`(`OpenCV`, `Back-end`). Могу реализовать ЛЮБУЮ задачу, зависит от времени. Имею небольшой коммерческий опыт, разрабатывал мобильаные приложения, а также `back-end` игры. Качество моего кода можете оценить по моим открытым репозиториям, например [Клиент SQLite3](https://github.com/RobertMeow/sqlite_sync)
+# <img height="40" width="40" src="https://raw.githubusercontent.com/RobertMeow/RobertMeow/master/files/meow.gif"/> RobertMeow
+Приветствую, зовут Роберт, 18 лет. Разрабатываю различные скрипты, программы на `Python` и `C++`(`OpenCV`, `Back-end`). Реализую ЛЮБУЮ задачу, зависит от времени. Имею небольшой коммерческий опыт, разрабатывал мобильные приложения, а также `back-end` игры. Качество моего кода можете оценить по моим открытым репозиториям, например [Клиент SQLite3](https://github.com/RobertMeow/sqlite_sync)
 
 ### Опыт Работы
 - Разработка на `Dart.Flutter`, `Python`, `C++`
