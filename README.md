@@ -1,15 +1,13 @@
 # <img height="40" width="40" src="https://raw.githubusercontent.com/RobertMeow/RobertMeow/master/files/meow.gif"/> RobertMeow
-Приветствую, зовут Роберт, 19 лет. Разрабатываю различные скрипты, программы на `Python` и `C++`(`OpenCV`, `Back-end`). Реализую ЛЮБУЮ задачу, зависит от времени. Имею небольшой коммерческий опыт, разрабатывал мобильные приложения, а также `back-end` игры. Качество моего кода можете оценить по моим открытым репозиториям, например [Клиент SQLite3](https://github.com/RobertMeow/sqlite_sync)
+Приветствую, зовут Роберт, 19 лет. Разрабатываю различные скрипты, программы на `Python` и `C++`(`OpenCV`, `Back-end`). Реализую ЛЮБУЮ задачу, зависит от времени. Имею небольшой коммерческий опыт, разрабатывал мобильные приложения, а также `back-end` игры. Качество моего кода можете оценить по моим открытым репозиториям, например [CryptoAnalystApp](https://github.com/RobertMeow/pet_crypto_analyst), [Клиент SQLite3](https://github.com/RobertMeow/sqlite_sync) или [Приложение VKTokenMaster](https://github.com/RobertMeow/VKTokenMaster)
 
-### Опыт Работы
-- Разработка на `Dart.Flutter`, `Python`, `C++`
-- Активное изучение `C++` (включая `OpenCV` для обработки изображений) для `Back-end` разработки
-- Опыт работы над `back-end` игры
+### Коммерческий опыт работы
+- Разработка на `Dart.Flutter`, `Python`
+- Различные `back-end` сервисы
 
 ### Навыки
 - Чтение и анализ чужого кода
 - Создание высоконагруженных программ
-- Качество кода можно оценить по моим репозиториям, например:  [Приложение VKTokenMaster](https://github.com/RobertMeow/VKTokenMaster), [Клиент SQLite3](https://github.com/RobertMeow/sqlite_sync)
 - Готов реализовать широкий спектр задач в зависимости от доступного времени
 
 ## ⚙ Мои разработки
