@@ -3,6 +3,9 @@
 ## 👋 About Me
 Hi, I'm Robert (19 y.o.), a Full Stack Developer with expertise in system architecture and infrastructure optimization. I specialize in developing high-performance applications and implementing robust DevOps solutions. My approach combines strong technical foundations with continuous adoption of cutting-edge technologies.
 
+## 💻 Development Environment
+I develop on a MacBook Pro 14" with M1 Pro, using Zed as my primary code editor.
+
 ## 🔧 Core Technology Stack
 I work with the latest frameworks and technologies, with particular expertise in:
 - Python & C++
